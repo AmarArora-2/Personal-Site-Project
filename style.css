@@ -1,0 +1,143 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.parisienne-regular {
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.top-container{
+    background-color: #FCF9EA;    
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.hcss{
+  color: #9B5DE0;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+.h2css{
+  color: #9B5DE0;
+  padding-bottom: 10px;
+  font-size: 2.5rem;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 33.200px;
+}
+
+span{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  right: 680px;
+  top:417.800px;
+  bottom: 300px;
+}
+
+/* --------------------------- */
+
+.mid-container{
+  margin: 100px 0px;
+}
+
+.amar{
+  height: 175px;
+  border-radius: 50%;
+  background-color: #D1D3D4;
+}
+
+.Intro{
+  width: 30%;
+  margin: auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.bio{
+  margin: 60px 0 0 0;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 70px;
+}
+
+.parent{
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 50%;
+  margin: 100px auto 0 auto;
+  row-gap: 2.5rem;
+}
+
+.resinfo{
+  text-align: left;
+}
+
+h3{
+  color: #9B5DE0;
+  font-size: larger;
+}
+
+.contact-mes{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn{
+  background-color: #9B5DE0;
+  background-image: -webkit-linear-gradient(top, #9B5DE0, #D78FEE);
+  background-image: -moz-linear-gradient(top, #9B5DE0, #D78FEE);
+  background-image: -ms-linear-gradient(top, #9B5DE0, #D78FEE);
+  background-image: -o-linear-gradient(top, #9B5DE0, #D78FEE);
+  background-image: linear-gradient(to bottom, #9B5DE0, #D78FEE);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+/* ------------------------------------ */
+
+.bottom-container{
+  background-color: #9B5DE0;
+  padding: 50px 0 20px;
+}
+
+a{
+  color:#FDCFFA;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
