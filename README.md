@@ -1,4 +1,16 @@
-# Personal-Site-Project
-This is a personal site project made using Bootstrap, CSS, FlexBox, Grid, HTML. 
-Developed a responsive personal portfolio website using HTML5, CSS3, Bootstrap, and basic JavaScript to showcase skills, projects, and contact information.
-Designed mobile‑friendly layouts, navigation, and reusable components (cards, navbar, buttons) to strengthen understanding of front‑end development and UI design.
+## Personal Site
+
+A responsive personal portfolio website built using HTML, CSS, Bootstrap, and JavaScript.  
+Showcases my projects, skills, and contact information in a clean, mobile‑friendly layout.
+
+### Tech Stack
+
+- HTML5 for page structure
+- CSS3 and Bootstrap for styling and responsive grid/layout
+- Vanilla JavaScript for interactive elements (navigation, buttons, etc.)
+
+### Features
+
+- Separate sections for About, Skills, Projects, and Contact
+- Fully responsive design that works on desktop, tablet, and mobile
+- Simple, reusable components built with Bootstrap utilities
